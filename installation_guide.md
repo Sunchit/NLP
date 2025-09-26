@@ -171,7 +171,7 @@ pip3 install jupyter
 ### 8. Next Steps
 
 After successful installation:
-1. Run the `spacy_embeddings_demo.py` script
+1. Run the `vectory_generation_demo.py` script
 2. Experiment with different sentences
 3. Try building your own embedding applications
 4. Explore other spaCy models for different languages
